@@ -25,6 +25,7 @@ p {
   position: fixed;
   bottom: 0;
   text-align: center;
+  margin-left: -10px;
 }
 
 i {
