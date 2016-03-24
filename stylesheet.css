@@ -1,17 +1,26 @@
 body {
-  background-color: #127323;
   color: white;
+  font-family: 'Lato', Arial, sans-serif;
+}
+
+.container {
+  line-height: 80vh;
 }
 
 .sContainer {
   position: relative;
 }
 
-h1 {
+#time {
+  font-size: 100px;
+  font-weight: 300;
+  letter-spacing: 20px;
   text-align: center;
+  vertical-align: middle;
 }
 
 p {
+  font-size: 20px;
   width: 100%;
   position: fixed;
   bottom: 0;
