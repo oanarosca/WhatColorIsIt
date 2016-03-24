@@ -1,0 +1,29 @@
+body {
+  background-color: #127323;
+  color: white;
+}
+
+.sContainer {
+  position: relative;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+}
+
+i {
+  color: #c0392b;
+}
+
+a {
+  color: #f4b742;
+  text-decoration: none;
+  border-bottom: 0.5px dashed #f4b742;
+}
